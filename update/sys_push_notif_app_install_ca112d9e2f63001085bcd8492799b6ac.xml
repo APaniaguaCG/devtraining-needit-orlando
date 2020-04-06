@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
     <sys_push_notif_app_install action="INSERT_OR_UPDATE">
         <active>true</active>
-        <last_registered_on>2020-03-17 17:06:51</last_registered_on>
+        <last_registered_on>2020-04-06 18:29:12</last_registered_on>
         <sys_class_name>sys_push_notif_app_install</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-16 17:28:46</sys_created_on>
         <sys_id>ca112d9e2f63001085bcd8492799b6ac</sys_id>
-        <sys_mod_count>25</sys_mod_count>
+        <sys_mod_count>31</sys_mod_count>
         <sys_name>ckujs7vmMXA:APA91bEP0C6uQGUQC6ySvcRr1wl1jOVAiOHumgpC20JBNXS2EvEf1xWXKZYNNiTjAxis6T5bZn7pYoto9eRXzf2mtSq8SYudOJpD9GY2YhgFI0b5sme46t3u1rQOtiZeWyEood5VYTo_</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
@@ -15,8 +15,8 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_push_notif_app_install_ca112d9e2f63001085bcd8492799b6ac</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-17 17:06:51</sys_updated_on>
-        <sys_user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user_id>
+        <sys_updated_on>2020-04-06 18:29:12</sys_updated_on>
+        <sys_user_id display_value="John Smith">6816f79cc0a8016401c5a33be04be441</sys_user_id>
         <token>ckujs7vmMXA:APA91bEP0C6uQGUQC6ySvcRr1wl1jOVAiOHumgpC20JBNXS2EvEf1xWXKZYNNiTjAxis6T5bZn7pYoto9eRXzf2mtSq8SYudOJpD9GY2YhgFI0b5sme46t3u1rQOtiZeWyEood5VYTo_</token>
     </sys_push_notif_app_install>
 </record_update>

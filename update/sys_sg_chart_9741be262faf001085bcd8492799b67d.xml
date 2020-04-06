@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <jump_to_screen display_value="Jump to My NeedIt Chart">d6c1afb62f6b401085bcd8492799b610</jump_to_screen>
+        <name>My Weeks Cases</name>
+        <report display_value="My Cases for This Year">f4dd2e222faf001085bcd8492799b668</report>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-17 17:57:40</sys_created_on>
+        <sys_id>9741be262faf001085bcd8492799b67d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>My Weeks Cases</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_chart_9741be262faf001085bcd8492799b67d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-18 16:08:23</sys_updated_on>
+        <title>My Cases By Weeks</title>
+        <type>report</type>
+        <widget/>
+    </sys_sg_chart>
+</record_update>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
     <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
-        <applet_launcher display_value="NeedIt">9a5cd19a2f63001085bcd8492799b60a</applet_launcher>
+        <applet_launcher display_value="Hello, ">9a5cd19a2f63001085bcd8492799b60a</applet_launcher>
         <order>30</order>
         <section display_value="Past">7ddc15da2f63001085bcd8492799b6a3</section>
         <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>

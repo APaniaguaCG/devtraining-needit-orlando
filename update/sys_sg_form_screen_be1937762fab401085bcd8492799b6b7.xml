@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <data_item display_value="Test Incident Data Item [DI]">5a78f3762fab401085bcd8492799b617</data_item>
+        <description>Test Form Applet</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="My Form Applet Icon">be1937762fab401085bcd8492799b6b2</icon>
+        <item_view display_value="My Form Applet Header Item View">f61937762fab401085bcd8492799b6b5</item_view>
+        <name>My Form Applet</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-18 17:49:53</sys_created_on>
+        <sys_id>be1937762fab401085bcd8492799b6b7</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>My Form Applet</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_form_screen_be1937762fab401085bcd8492799b6b7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-18 18:51:27</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=be1937762fab401085bcd8492799b6b7"/>
+</record_update>
